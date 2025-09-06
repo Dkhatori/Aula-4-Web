@@ -1,0 +1,39 @@
+body{
+    background-color: whitesmoke;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.cabecalho{
+    margin-top: 2rem;
+    padding: 0.5rem;
+    display: flex;
+
+}
+
+#nome{
+    font-size:2.5em;
+    text-align: start;
+}
+
+.photo{
+    width: 7rem;
+    border-radius: 10rem;
+}
+
+.nome-sub{
+    margin: 0rem 3rem 0rem 3rem;
+    width: 70%;
+}
+
+.container{
+    display: flex;
+}
+
+.menu{
+    width: 30%;
+    background-color: rgb(186, 186, 186);
+}
+
+.conteudo{
+    width: 70%;
+}
