@@ -17,7 +17,7 @@ P{
     color: rgb(9, 14, 42);
 }
 li{
-    background-color: rgba(141, 141, 248,0.6);
+    background-color: rgb(47, 168, 255);
 }
 
 li.active{
@@ -26,4 +26,5 @@ li.active{
 
 .space{
     padding: 0.8rem;
+
 }
