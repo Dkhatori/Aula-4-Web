@@ -14,7 +14,7 @@ body {
     background-color: whitesmoke;
 }
 P{
-    color: rgb(9, 14, 42);
+    color: rgb(47, 168, 255);
 }
 li{
     background-color: rgb(47, 168, 255);
@@ -32,6 +32,7 @@ li.active{
 .menu{
     background-color: rgb(47, 168, 255);
 }
+
 
 
 
